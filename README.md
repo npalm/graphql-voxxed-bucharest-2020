@@ -1,0 +1,1 @@
+# Landing page for talk 7 ways GraphQL empowers you
