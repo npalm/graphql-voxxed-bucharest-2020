@@ -1,0 +1,48 @@
+- name: Landig Page
+  url: https://github.com/npalm/graphql-voxxed-bucharest-2020
+  description: Landing page talk 7 ways GraphQL empowers you
+  tags:
+    - gatsby
+
+- name: Slides Voxxed Days Bucharest
+  url: https://github.com/npalm/graphql-voxxed-bucharest-2020-slides
+  description: Slides Voxxed Days Bucharest 2020 - 7 ways GraphQL empowers you
+  tags:
+    - slides
+    - revealjs
+
+- name: GraphQL Rest Adapter
+  url: https://github.com/npalm/graphql-rest-adapter-node
+  description: Demo to proxy a rest backend via a GraphQL API
+  tags:
+    - apollo
+    - apollo-link-rest
+    - backend
+
+- name: GraphQL Front-end only
+  url: https://github.com/npalm/graphql-apollo-link-rest-sample
+  description: Demo to proxy a rest backend via a GraphQL API
+  tags:
+    - apollo
+    - apollo-link-rest
+    - backend
+
+- name: GraphQL Java Backend
+  url: ttps://github.com/npalm/graphql-java-demo
+  description: Java Spring Boot GraphQL API
+  tags:
+    - Java
+    - Spring Boot
+
+- name: Prisma GraphQL Server
+  url: https://github.com/npalm/graphql-prisma-demo
+  description:
+  tags:
+    - Prisma
+
+- name: Instantly GraphQL on PostgreSQL
+  url: https://github.com/npalm/graphql-postgraphile-demo
+  description:
+  tags:
+    - PostgreSQL
+    - Postgraphile
