@@ -35,7 +35,6 @@ const BadgeItem = styled(Badge)`
 
 const InfoCard = ({ name, url, description, tags, urlText }) => (
   <StyledCard>
-    <Card.Header></Card.Header>
     <Card.Body>
       <Card.Title>{name}</Card.Title>
       <Card.Subtitle>
