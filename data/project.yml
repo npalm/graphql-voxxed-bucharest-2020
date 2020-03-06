@@ -20,7 +20,7 @@
     - backend
 
 - name: GraphQL Front-end only
-  url: https://github.com/npalm/graphql-apollo-link-rest-sample
+  url: https://github.com/npalm/graphql-apollo-link-rest-react-sample
   description: Demo to proxy a rest backend via a GraphQL API
   tags:
     - apollo
@@ -28,7 +28,7 @@
     - backend
 
 - name: GraphQL Java Backend
-  url: ttps://github.com/npalm/graphql-java-demo
+  url: https://github.com/npalm/graphql-java-demo
   description: Java Spring Boot GraphQL API
   tags:
     - Java
@@ -36,13 +36,13 @@
 
 - name: Prisma GraphQL Server
   url: https://github.com/npalm/graphql-prisma-demo
-  description:
+  description: GraphQL prisma demo
   tags:
     - Prisma
 
 - name: Instantly GraphQL on PostgreSQL
-  url: https://github.com/npalm/graphql-postgraphile-demo
-  description:
+  url: https://github.com/npalm/graphql-postgraphile-sample
+  description: GraphQL example to expose a GraphQL API via postgraphile direct on PostgreSQL
   tags:
     - PostgreSQL
     - Postgraphile
