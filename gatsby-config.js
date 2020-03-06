@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: "/graphql-voxxed-bucharest-2020",
   plugins: [{
     resolve: "@geocine/gatsby-theme-organization",
     options: {
